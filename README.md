@@ -1,11 +1,7 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-
 ## General info
   that's a training about OOP for building a college management system.
 	
-## Technologies
+## Topics
 Project is created with:
 * java version "1.8.0_221" 
 * Using Encapsulation.
