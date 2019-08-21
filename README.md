@@ -1,5 +1,5 @@
 ## General info
-  that's a training about OOP for building a college management system.
+  that's a training project about OOP for building a college management system.
 	
 ## Topics
 Project is created with:
