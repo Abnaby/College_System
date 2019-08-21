@@ -9,4 +9,6 @@ Project is created with:
 * Reference to Object.
 * Object Composition.
 * Using Array List.
+## Assignment full description 
+[full description](https://www.youtube.com/watch?v=HZczmYBsF64&list=PLrW6ND2wzt4qcsqTEXcvuPP-hASzIoy7y&index=20)
 	
